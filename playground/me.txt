@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: Revathy
-Skills: Java, Selenium,SQL,POM
-Email: revthy11@outlook.com
-{{/user}}
